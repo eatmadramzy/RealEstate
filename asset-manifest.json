@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//eatmadramzy.github.io/RealEstate/static/css/main.fa3f5a5e.css",
-    "main.js": "/https//eatmadramzy.github.io/RealEstate/static/js/main.0b958dd5.js",
+    "main.js": "/https//eatmadramzy.github.io/RealEstate/static/js/main.a17212fe.js",
     "static/js/453.06facb9f.chunk.js": "/https//eatmadramzy.github.io/RealEstate/static/js/453.06facb9f.chunk.js",
     "static/media/about.jpg": "/https//eatmadramzy.github.io/RealEstate/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/https//eatmadramzy.github.io/RealEstate/static/media/pricing.4552ccf3b91e93029513.jpg",
@@ -9,11 +9,11 @@
     "static/media/banner.png": "/https//eatmadramzy.github.io/RealEstate/static/media/banner.1a3c8a0a448e8e24f6a0.png",
     "index.html": "/https//eatmadramzy.github.io/RealEstate/index.html",
     "main.fa3f5a5e.css.map": "/https//eatmadramzy.github.io/RealEstate/static/css/main.fa3f5a5e.css.map",
-    "main.0b958dd5.js.map": "/https//eatmadramzy.github.io/RealEstate/static/js/main.0b958dd5.js.map",
+    "main.a17212fe.js.map": "/https//eatmadramzy.github.io/RealEstate/static/js/main.a17212fe.js.map",
     "453.06facb9f.chunk.js.map": "/https//eatmadramzy.github.io/RealEstate/static/js/453.06facb9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa3f5a5e.css",
-    "static/js/main.0b958dd5.js"
+    "static/js/main.a17212fe.js"
   ]
 }
